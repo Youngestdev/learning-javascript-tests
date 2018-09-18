@@ -3,4 +3,4 @@
 
 | Lessons | Date | Status |
 |---------|:----:|-------:|
-|Intoduction to Mocha| 18th September 2018| Copmpleted|
+|Intoduction to Mocha| 18th September 2018| Completed|
