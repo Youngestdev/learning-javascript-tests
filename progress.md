@@ -1,7 +1,5 @@
 # My Progress while learning how to write JavaScript tests. I'm taking a Code Academy beta course.
 
-
-day_2
 | Lessons | Description | Date | Status | Lesson Link |
 |---------| ----------: |:----:|-------:| ----------: |
 |Intoduction to Testing | Learnt the basic use of `assert` and Mocha. | 18th September 2018| Copmpleted| [Introduction to Testing](lesson_1.js)
